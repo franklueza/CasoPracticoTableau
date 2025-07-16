@@ -36,13 +36,12 @@ d) Satisacción y rotación
 El gerente Janet King, Webster Butler y Amy Dunn, responsable del departamento Software Engineering y Production, presenta una tasa de rotación del 100%, 61.9% y 61.9% respectivamente  y una satisfacción promedio de su equipo de 4/5, 4.048/5 y 3.810/5. Esto indica que existe una baja retención de los empleados y los gerentes necesitan capacitación.
 
 
-Conclusión:  
-- Desequilibrios de género en departamentos como IT/IS sugieren reclutamiento enfocado en diversidad.
+## Conclusión:  
+- Desequilibrios de género en departamentos sugieren reclutamiento enfocado en diversidad.
+- Mejorar las experiencias de contratación en las fuentes de reclutamiento.
 - Picos en contrataciones/terminaciones requieren investigar factores externos o internos.
-- Duraciones cortas en algunos departamentos indican desafíos de retención.
-- Disparidades salariales destacan la necesidad de revisar compensaciones.
-- Razones de rotación como “más dinero” sugieren mejorar salarios y desarrollo.
-- Empleados de alto desempeño con baja satisfacción pueden tener problemas de carga de trabajo.
-- Gerentes con alta rotación necesitan capacitación.
-- Tardanzas frecuentes indican problemas de compromiso o programación.  
-Recomendaciones: Mejorar retención con salarios competitivos, desarrollo profesional y capacitación en liderazgo. Priorizar fuentes como Ferias de Empleo de Diversidad.
+- Disparidades salariales destacan la necesidad de revisar compensaciones para ambos géneros.
+- Razones de rotación sugieren mejorar salarios y desarrollo.
+- Gerentes con alta rotación necesitan capacitación
+
+### Recomendaciones: Mejorar retención con salarios competitivos, desarrollo profesional y capacitación en liderazgo. Priorizar fuentes como Ferias de Empleo de Diversidad.
