@@ -29,10 +29,10 @@ El promedio de duración de contrato por departamento es de 10.083 años.
 e) Razones de terminación de contrato  
 Las tres principales razones por las que los empleados terminan su contrato - aunque son muy pocas personas en los departamentos - son: buscan moverse a otra posición, quieren más dinero y porque no están felices. 
 
-e) Salario promedio, departamento y género  
+f) Salario promedio, departamento y género  
 El departamento Execuive Office (Oficina ejecutiva) las parsonas ganan un salario promedio $250K y donde predominan las mujeres al 100%, seguido de Software Engineering con un salario 92.6K para Hombres y 96.9K para mujeres y finalmente IT/IS con un saliario promedio de 99K para Hombres y 94.5K para mujeres. 
 
-d) Satisacción y rotación  
+g) Satisacción y rotación  
 El gerente Janet King, Webster Butler y Amy Dunn, responsable del departamento Software Engineering y Production, presenta una tasa de rotación del 100%, 61.9% y 61.9% respectivamente  y una satisfacción promedio de su equipo de 4/5, 4.048/5 y 3.810/5. Esto indica que existe una baja retención de los empleados y los gerentes necesitan capacitación.
 
 
