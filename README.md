@@ -10,6 +10,8 @@ El análisis se basa en dos tableros interactivos creados en Tableau Public:
 
 ![Análisis SRL.](https://raw.githubusercontent.com/franklueza/CasoPracticoTableau/refs/heads/main/Dashboard1SRL.png)
 
+![Análisis SRL.](https://raw.githubusercontent.com/franklueza/CasoPracticoTableau/refs/heads/main/Dashboard2SRL.png)
+
 a) Distribución de Empleados por Departamento y Género  
 En los seis departamentos analizados, se observa una paridad más o menos equilibrada, con un total de 176 mujeres y 134 hombres, lo que representa una diferencia de 42 mujeres más que hombres.  
   
