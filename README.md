@@ -30,6 +30,7 @@ d) Satisacción y rotación
 El gerente Janet King, Webster Butler y Amy Dunn, responsable del departamento Software Engineering y Production, presenta una tasa de rotación del 100%, 61.9% y 61.9% respectivamente  y una satisfacción promedio de su equipo de 4/5, 4.048/5 y 3.810/5. Esto indica que existe una baja retención de los empleados y los gerentes necesitan capacitación.
 
 
+![Análisis SRL.](https://github.com/franklueza/CasoPracticoTableau/main/Dashboard1SRL.png
 
 Conclusión:  
 - Desequilibrios de género en departamentos como IT/IS sugieren reclutamiento enfocado en diversidad.
