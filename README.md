@@ -6,7 +6,9 @@ demográficas de cada empleado. Estos datos son cruciales para el análisis y la
 Los analistas de Recursos Humanos necesitan un dashboard interactivo y dinámico que les permita identificar puntos clave, y con base en ellos, optimizar la gestión del talento y fomentar un entorno laboral más inclusivo y diverso. 
 
 ## Análisis
-El análisis se basa en dos tableros interactivos creados en Tableau Public, que abordan las siguientes dimensiones clave: 
+El análisis se basa en dos tableros interactivos creados en Tableau Public: 
+
+![Análisis SRL.](https://raw.githubusercontent.com/franklueza/CasoPracticoTableau/refs/heads/main/Dashboard1SRL.png)
 
 a) Distribución de Empleados por Departamento y Género  
 En los seis departamentos analizados, se observa una paridad más o menos equilibrada, con un total de 176 mujeres y 134 hombres, lo que representa una diferencia de 42 mujeres más que hombres.  
@@ -29,8 +31,6 @@ El departamento Execuive Office (Oficina ejecutiva) las parsonas ganan un salari
 d) Satisacción y rotación  
 El gerente Janet King, Webster Butler y Amy Dunn, responsable del departamento Software Engineering y Production, presenta una tasa de rotación del 100%, 61.9% y 61.9% respectivamente  y una satisfacción promedio de su equipo de 4/5, 4.048/5 y 3.810/5. Esto indica que existe una baja retención de los empleados y los gerentes necesitan capacitación.
 
-
-![Análisis SRL.](https://github.com/franklueza/CasoPracticoTableau/main/Dashboard1SRL.png
 
 Conclusión:  
 - Desequilibrios de género en departamentos como IT/IS sugieren reclutamiento enfocado en diversidad.
